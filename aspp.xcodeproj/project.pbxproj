@@ -14,6 +14,7 @@
 		3F01C7832ACC296600979E9B /* asppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F01C7822ACC296600979E9B /* asppTests.swift */; };
 		3F01C78D2ACC296600979E9B /* asppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F01C78C2ACC296600979E9B /* asppUITests.swift */; };
 		3F01C78F2ACC296600979E9B /* asppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F01C78E2ACC296600979E9B /* asppUITestsLaunchTests.swift */; };
+		3F01C79C2ACC2ACB00979E9B /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F01C79B2ACC2ACB00979E9B /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		3F01C7882ACC296600979E9B /* asppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = asppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F01C78C2ACC296600979E9B /* asppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asppUITests.swift; sourceTree = "<group>"; };
 		3F01C78E2ACC296600979E9B /* asppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3F01C79B2ACC2ACB00979E9B /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				3F01C7712ACC296400979E9B /* asppApp.swift */,
+				3F01C79B2ACC2ACB00979E9B /* SwiftUIView.swift */,
 				3F01C7732ACC296400979E9B /* ContentView.swift */,
 				3F01C7752ACC296500979E9B /* Assets.xcassets */,
 				3F01C7772ACC296500979E9B /* Preview Content */,
@@ -259,6 +262,7 @@
 			files = (
 				3F01C7742ACC296400979E9B /* ContentView.swift in Sources */,
 				3F01C7722ACC296400979E9B /* asppApp.swift in Sources */,
+				3F01C79C2ACC2ACB00979E9B /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
